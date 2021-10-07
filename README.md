@@ -2,7 +2,7 @@
 
 Nice to meet ya all! :)
 
-<a href="https://app.daily.dev/deyooo"><img src="https://github.com/deotamaaa/deotamaaa/blob/9c9e8a273b1128ed75c5adc4e86186236d5f3605/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/deyooo"><img src="https://github.com/deotamaaa/deotamaaa/blob/9c9e8a273b1128ed75c5adc4e86186236d5f3605/devcard.svg" width="400" alt="Deyooo's Dev Card"/></a>
 
 - 🔭 I’m currently working on by myself
 - 🌱 I’m currently learning HTML, CSS, Javascript, React.js. In short, Web Dev 😉
