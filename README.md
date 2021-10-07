@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/deyooo"><img src="https://api.daily.dev/devcards/46a83223cf0d40ca9b14c8a078bb0265.png?r=k8c" width="400" alt="deyooo's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/deotamaaa/deotamaaa/blob/9c9e8a273b1128ed75c5adc4e86186236d5f3605/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 
 <!--
 **deotamaaa/deotamaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
