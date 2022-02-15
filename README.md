@@ -8,7 +8,7 @@ Nice to meet ya all! :)
 - 🌱 I’m currently learning HTML, CSS, Javascript, React.js. In short, Web Dev 😉
 - 👯 I’m looking to collaborate on web project.
 - 💬 Ask me about anything! Lets get in touch and know each others.
-- 📫 How to reach me: you can find me by my Twitter.
+- 📫 How to reach me: you can find me here.
 - 😄 Pronouns: Deyooo (re: Diyu~)
 - ⚡ Fun fact: Hmmm.. lets see 🤔
 
